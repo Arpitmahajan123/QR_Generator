@@ -44,9 +44,9 @@ Find your QR code saved in the current directory.
 
 Example Session
 
-Enter The Text or URL to be converted into QR Code: https://example.com
-Enter The File Name: example.png
-QR Code generated and saved as example.png
+Enter The Text or URL to be converted into QR Code: https://www.apple.com
+Enter The File Name: apple.jpg
+QR Code generated and saved as apple.jpg
 
 # Customization
 To change the size of each QR “box,” edit the box_size parameter.
